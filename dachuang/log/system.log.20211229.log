@@ -1,0 +1,3 @@
+{"IP":"::1","Method":"GET","Status":200,"Time":6353900,"URL":"/v1/oth/articles","level":"info","msg":"","time":"2021-12-29 00:15:45"}
+{"IP":"::1","Method":"GET","Status":404,"Time":0,"URL":"/","level":"info","msg":"","time":"2021-12-29 10:23:59"}
+{"IP":"::1","Method":"GET","Status":404,"Time":0,"URL":"/favicon.ico","level":"info","msg":"","time":"2021-12-29 10:23:59"}
