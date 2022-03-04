@@ -1,9 +1,0 @@
-{"client_ip":"::1","latency_time":7891700,"level":"info","msg":"","req_method":"GET","req_uri":"/v1/oth/articles","status_code":200,"time":"2021-12-28 22:46:32"}
-{"client_ip":"::1","latency_time":649500,"level":"info","msg":"","req_method":"GET","req_uri":"/v1/oth/articles","status_code":200,"time":"2021-12-28 22:46:59"}
-{"client_ip":"::1","latency_time":969100,"level":"info","msg":"","req_method":"GET","req_uri":"/v1/oth/articles","status_code":200,"time":"2021-12-28 22:46:59"}
-{"client_ip":"::1","latency_time":2907000,"level":"info","msg":"","req_method":"GET","req_uri":"/v1/oth/article?id=5","status_code":200,"time":"2021-12-28 22:47:06"}
-{"client_ip":"::1","latency_time":6609500,"level":"info","msg":"","req_method":"GET","req_uri":"/v1/oth/article?id=5","status_code":200,"time":"2021-12-28 22:47:55"}
-{"client_ip":"::1","latency_time":388200,"level":"info","msg":"","req_method":"GET","req_uri":"/v1/oth/article?id=6","status_code":200,"time":"2021-12-28 22:47:57"}
-{"IP":"::1","Method":"GET","Status":200,"Time":9881700,"URL":"/v1/oth/article?id=6","level":"info","msg":"","time":"2021-12-28 22:49:18"}
-{"IP":"::1","Method":"GET","Status":200,"Time":4332100,"URL":"/v1/oth/article?id=7","level":"info","msg":"","time":"2021-12-28 23:03:24"}
-{"IP":"::1","Method":"GET","Status":200,"Time":0,"URL":"/v1/oth/articles","level":"info","msg":"","time":"2021-12-28 23:03:27"}
